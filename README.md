@@ -1,4 +1,4 @@
-#sunpy
+# sunpy
 
 Module for opening, manipulating, and plotting mock galaxy images produced with SUNRISE.
 This module has been developed to support the Illustris Image Pipeline (http://arxiv.org/abs/1411.3717).  
